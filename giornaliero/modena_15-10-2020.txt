@@ -1,0 +1,19 @@
+Bastiglia 1
+Campogalliano 1
+Carpi 1
+Castelfranco E. 1
+Finale Emilia 3
+Fiorano M. 1
+Modena 42
+Montefiorino 1
+Nonantola 1
+Pavullo 2
+San Cesario S/P
+San Felice S/P 1
+San Prospero 1
+Sassuolo 2
+Savignano S/P
+Serramazzoni 1
+Spilamberto 2
+Non residenti in prov. 2
+TOTALE 63

@@ -1,0 +1,22 @@
+Carpi 2
+Castelfranco E. 2
+Castelnuovo R. 1
+Concordia 1
+Fiorano M. 2
+Formigine 6
+Guiglia 2
+Marano 1
+Mirandola 3
+Modena 21
+Nonantola 3
+Novi 1
+Prignano 1
+Ravarino 2
+San Cesario S/P 1
+San Prospero 1
+Sassuolo 5
+Soliera 3
+Vignola 1
+Fuori provincia 3
+
+TOTALE 62

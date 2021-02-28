@@ -1,0 +1,51 @@
+# Fonte: https://www.tuttitalia.it/emilia-romagna/provincia-di-modena/70-comuni/popolazione/
+# Scaricato 27-02-2021
+	Comune	 Popolazione residenti	Superficie km²	Densità abitanti/km²	Altitudine m s.l.m.
+ 1.	MODENA	189.013	183,19	1.032	34
+ 2.	Carpi	72.369	131,54	550	26
+ 3.	Sassuolo	40.278	38,40	1.049	121
+ 4.	Formigine	34.366	46,74	735	82
+ 5.	Castelfranco Emilia	32.983	102,51	322	42
+ 6.	Vignola	25.549	22,86	1.118	125
+ 7.	Mirandola	24.122	137,09	176	18
+ 8.	Pavullo nel Frignano	17.978	143,73	125	682
+ 9.	Maranello	17.569	32,58	539	137
+10.	Fiorano Modenese	17.135	26,23	653	115
+11.	Nonantola	15.970	55,32	289	24
+12.	Soliera	15.483	50,93	304	28
+13.	Finale Emilia	15.156	105,13	144	15
+14.	Castelnuovo Rangone	15.087	22,44	672	76
+15.	Spilamberto	12.735	29,79	427	69
+16.	Castelvetro di Modena	11.289	49,78	227	152
+17.	San Felice sul Panaro	10.855	51,66	210	19
+18.	Bomporto	10.070	38,87	259	25
+19.	Novi di Modena	9.862	51,82	190	21
+20.	Savignano sul Panaro	9.284	25,55	363	102
+21.	Campogalliano	8.696	35,69	244	43
+22.	Serramazzoni	8.487	93,96	90	791
+23.	Concordia sulla Secchia	8.228	40,97	201	22
+24.	Cavezzo	7.030	26,77	263	24
+25.	San Cesario sul Panaro	6.566	27,31	240	54
+26.	Medolla	6.241	27,00	231	22
+27.	Ravarino	6.183	28,53	217	23
+28.	San Prospero	6.011	34,56	174	22
+29.	Marano sul Panaro	5.280	45,47	116	142
+30.	Zocca	4.585	69,37	66	758
+31.	Bastiglia	4.197	10,47	401	27
+32.	Guiglia	3.932	48,30	81	490
+33.	Prignano sulla Secchia	3.736	79,67	47	557
+34.	San Possidonio	3.463	17,06	203	20
+35.	Montese	3.275	81,01	40	841
+36.	Camposanto	3.199	22,71	141	21
+37.	Fanano	2.966	89,91	33	640
+38.	Lama Mocogno	2.669	63,91	42	842
+39.	Sestola	2.451	52,47	47	1.020
+40.	Pievepelago	2.284	76,54	30	781
+41.	Montefiorino	2.141	45,28	47	797
+42.	Palagano	2.080	60,41	34	703
+43.	Frassinoro	1.861	95,46	19	1.131
+44.	Polinago	1.604	53,74	30	810
+45.	Fiumalbo	1.199	39,14	31	953
+46.	Montecreto	916	31,22	29	864
+47.	Riolunato	686	44,91	15	716
+

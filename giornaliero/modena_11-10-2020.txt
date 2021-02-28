@@ -1,0 +1,14 @@
+Campogalliano 1
+Carpi 3
+Castelfranco E. 4
+Castelnuovo R.
+Concordia 1
+Formigine 2
+Modena 33
+Nonantola 4
+Pavullo 1
+Pievepelago 1
+Sassuolo 2
+Savignano S/P
+Vignola 1
+Fuori provincia 1

@@ -1,0 +1,12 @@
+Carpi 1
+Formigine 1
+Maranello 2
+Medolla 1
+Mirandola 4
+Modena 11
+Montefiorino 1
+Novi 1
+Pievepelago 3
+Sassuolo 2
+Soliera 1
+Non residenti in prov. 1
