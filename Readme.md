@@ -26,3 +26,10 @@ Nel far notare i limiti di quella visualizzazione, ho pensato di poter continuar
 Questo è un grafico di esempio che riguarda appunto Nonantola. Il [Jupyter notebook](CovidNonantola_contesto.md) usato per produrlo contiene anche le info sulla lettura dei dati e il modo in cui sono stati trattati.
 
 ![](./Nonantola.png)
+
+### Emilia Romagna
+
+Andamento dei positivi settimanali (somma mobile 7gg rapportata a 100 mila abitanti) per le province.
+[Notebook](plot_provincia.ipynb).
+
+![](./emilia_romagna.png)
