@@ -6,3 +6,4 @@ Fiorano M. 1
 Mirandola 1
 Modena 2
 Nonantola 1
+TOTALE 13

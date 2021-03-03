@@ -1,0 +1,8 @@
+Carpi 4
+Maranello 2
+Mirandola 4
+Modena 5
+Sassuolo 1
+Spilamberto 1
+Non residenti in prov. 1
+TOTALE 18

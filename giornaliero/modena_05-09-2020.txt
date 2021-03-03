@@ -1,0 +1,11 @@
+Carpi 1
+Castelfranco E. 2
+Formigine 5
+Mirandola 1
+Modena 6
+Nonantola 1
+San Felice S/P 2
+San Possidonio 1
+Spilamberto 1
+Vignola 1
+TOTALE 21

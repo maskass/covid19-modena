@@ -1,0 +1,6 @@
+Carpi 3
+Castelvetro 1
+Modena 6
+Sassuolo 1
+Spilamberto 1
+TOTALE 12

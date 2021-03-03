@@ -1,0 +1,11 @@
+Bomporto 1
+Campogalliano 1
+Carpi 4
+Castelvetro 1
+Cavezzo 1
+Formigine 1
+Modena 3
+Nonantola 1
+Soliera 1
+Non residenti in prov. 2
+TOTALE 16

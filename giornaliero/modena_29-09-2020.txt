@@ -1,0 +1,8 @@
+Campogalliano 1
+Carpi 2
+Castelfranco E. 2
+Formigine 1
+Marano 2
+Modena 5
+Sassuolo 1
+TOTALE 14

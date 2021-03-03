@@ -1,0 +1,10 @@
+Carpi 1
+Castelfranco E. 11
+Castelnuovo R.
+Castelvetro 2
+Maranello 1
+Medolla 1
+Modena 1
+Sassuolo 2
+Vignola 1
+TOTALE 20

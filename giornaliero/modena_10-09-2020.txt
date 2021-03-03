@@ -1,0 +1,12 @@
+Campogalliano 1
+Carpi 8
+Castelfranco E. 1
+Formigine 1
+Mirandola 1
+Modena 5
+Nonantola 1
+Savignano S/P 1
+Serramazzoni 2
+Vignola 1
+Non residenti in prov. 1
+TOTALE 23

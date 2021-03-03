@@ -1,0 +1,8 @@
+Campogalliano 2
+Camposanto
+Carpi 3
+Castelfranco E. 6
+Modena 6
+Sassuolo 4
+Non residenti in prov. 3
+TOTALE 24

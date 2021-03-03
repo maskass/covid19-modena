@@ -1,0 +1,11 @@
+Carpi 3
+Castelfranco E. 1
+Concordia 1
+Maranello 1
+Modena 13
+Nonantola 1
+Novi 1
+Sassuolo 3
+Spilamberto 1
+Non residenti in prov. 1
+TOTALE 26

@@ -1,0 +1,13 @@
+Campogalliano 1
+Camposanto 1
+Carpi 1
+Castelfranco E. 1
+Castelvetro 1
+Formigine 1
+Maranello 4
+Mirandola 2
+Modena 8
+Pavullo 1
+Sassuolo 3
+Non residenti in prov. 1
+TOTALE 25

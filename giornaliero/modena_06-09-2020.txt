@@ -1,0 +1,9 @@
+Bomporto 1
+Campogalliano 4
+Castelfranco E. 1
+Formigine 1
+Maranello 2
+Mirandola 1
+Modena 5
+Nonantola 2
+TOTALE 17

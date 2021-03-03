@@ -1,0 +1,11 @@
+Campogalliano 2
+Carpi 7
+Castelnuovo R. 2
+Finale Emilia 2
+Maranello 1
+Mirandola 1
+Modena 3
+Spilamberto 1
+Vignola 2
+Non residenti in prov. 1
+TOTALE 22

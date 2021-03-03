@@ -1,0 +1,9 @@
+Campogalliano 2
+Carpi 4
+Castelfranco E. 1
+Mirandola 1
+Modena 4
+Palagano 1
+Spilamberto 1
+Non residenti in prov. 3
+TOTALE 17

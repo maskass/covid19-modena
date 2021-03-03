@@ -1,0 +1,11 @@
+Carpi 4
+Castelfranco E. 1
+Fiorano M. 1
+Formigine 2
+Mirandola 2
+Modena 8
+Sassuolo 6
+Savignano S/P 1
+Soliera 1
+Vignola 2
+TOTALE 28

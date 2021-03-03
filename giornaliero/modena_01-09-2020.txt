@@ -1,0 +1,10 @@
+Carpi 1
+Castelfranco E. 2
+Concordia 1
+Fiorano M. 1
+Maranello 2
+Modena 8
+Sassuolo 4
+Serramazzoni 1
+Altra provincia 2
+TOTALE 22
