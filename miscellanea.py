@@ -68,6 +68,8 @@ def adatta_nome(s):
     replacing = {
         'Campogaliano'           : 'Campogalliano',
         'Non residenti in prov.' : 'Fuori provincia',
+        'Non residenti in provincia': 'Fuori provincia',
+        'Altra provincia'        : 'Fuori provincia',
         'MODENA'                 : 'Modena',
         'Pavullo nel Frignano'   : 'Pavullo',
         'Fiorano Modenese'       : 'Fiorano M.',

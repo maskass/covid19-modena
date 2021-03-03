@@ -1,6 +1,8 @@
 # Dati Covid19 provincia di Modena 
 
-La repository contiene i dati dei **nuovi positivi** della provincia di Modena divisi per comune. I dati sono ricavati dalle pubblicazioni giornaliere del sito di  [sulpanaro.net](sulpanaro.net) ([qui](https://www.sulpanaro.net/2021/02/aggiornamento-coronavirus-28-2-nel-modenese-402-nuovi-casi/) ad esempio il report del 28/02), che a sua volta riporta il bollettino quotidiano emesso dall'AUSL di Modena non pubblico.
+La repository contiene i dati dei **nuovi positivi** della provincia di Modena divisi per comune. I dati sono ricavati dalle pubblicazioni giornaliere del sito di  [sulpanaro.net](sulpanaro.net) ([qui](https://www.sulpanaro.net/2021/02/aggiornamento-coronavirus-28-2-nel-modenese-402-nuovi-casi/) ad esempio il report del 28/02), che a sua volta riporta il bollettino quotidiano emesso dall'AUSL di Modena non distribuito pubblicamente.
+
+Ringrazio la redazione del quotidiano che mi ha aiutato a recuperare alcuni report mancanti dalle loro pagine.
 
 Nell'attesa che l'AUSL pubblichi uno storico strutturato e attendibile, ho deciso di raccolgiere i dati e metterli a disposizione.
 
@@ -12,7 +14,7 @@ Nella cartella **report_vari** si trovano (sia in formato Excel che csv):
 La cartella **giornaliero** contiene invece i dati di partenza. Si tratta di un file di testo per ogni giorno e corrisponde al testo contenuto nei bollettini periodici dell'AUSL riportati dal giornale sulpanaro.net all'interno delle proprie pagine online. In alcuni casi questo è stato fatto con degli screenshot e nella cartella si trova la corrispondente immagine (l'import di questi dati è ancora in corso, le immagini già processate sono nella sottocartella)
 
 
-Nota: <font color=red>alcuni giorni mancano</font>. La raccolta sarà aggiornata costantemente ma al momento non tutti i giorni sono presenti. Il 2021 è quasi completo, ma il 2020 (i dati partono da metà settembre) ha molti buchi. 
+Nota: dataset completo da 01-09-2020 a oggi. <font color=red>Mancano 2 giorni (6 gennaio e 28 dicembre)</font>. 
 
 Per qualsiasi richiesta o suggerimento: ![](./email.png)
 
