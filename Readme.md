@@ -2,22 +2,43 @@
 
 La repository contiene i dati dei **nuovi positivi** della provincia di Modena divisi per comune. I dati sono ricavati dalle pubblicazioni giornaliere del sito di  [sulpanaro.net](sulpanaro.net) ([qui](https://www.sulpanaro.net/2021/02/aggiornamento-coronavirus-28-2-nel-modenese-402-nuovi-casi/) ad esempio il report del 28/02), che a sua volta riporta il bollettino quotidiano emesso dall'AUSL di Modena non distribuito pubblicamente.
 
-Ringrazio la redazione del quotidiano che mi ha aiutato a recuperare alcuni report mancanti dalle loro pagine.
-
 Nell'attesa che l'AUSL pubblichi uno storico strutturato e attendibile, ho deciso di raccolgiere i dati e metterli a disposizione.
-
-Nella cartella **report_vari** si trovano (sia in formato Excel che csv):
-
-* **nuovi_positivi_comuni_MO.xlsx**: nuovi positivi per ogni giorno per tutti i comuni della provincia
-* **nuovi_positivi_rolling7gg_comuni_MO.xlsx**: somma mobile 7gg. dei dati di cui sopra
-
-La cartella **giornaliero** contiene invece i dati di partenza. Si tratta di un file di testo per ogni giorno e corrisponde al testo contenuto nei bollettini periodici dell'AUSL riportati dal giornale sulpanaro.net all'interno delle proprie pagine online. In alcuni casi questo è stato fatto con degli screenshot e nella cartella si trova la corrispondente immagine (l'import di questi dati è ancora in corso, le immagini già processate sono nella sottocartella)
-
-
-Nota: dataset completo da 01-09-2020 a oggi. <font color=red>Mancano 2 giorni (6 gennaio e 28 dicembre)</font>. 
 
 Per qualsiasi richiesta o suggerimento: ![](./email.png)
 
+## Report disponibili
+
+
+In [report_vari](./report_vari) si trovano:
+
+* **nuovi_positivi_comuni_MO** ([xlsx](./report_vari/nuovi_positivi_comuni_MO.xlsx), [csv]((./report_vari/nuovi_positivi_comuni_MO.csv))): nuovi positivi per ogni giorno per tutti i comuni della provincia
+* **nuovi_positivi_rolling7gg_comuni_MO** ([xlsx](./report_vari/nuovi_positivi_rolling7gg_comuni_MO.xlsx), [csv]((./report_vari/nuovi_positivi_rolling7gg_comuni_MO.csv))): incidenza 7gg. dei dati di cui sopra
+
+In [report_vari/comuni](./report_vari/comuni) si trovano i report (Excel e csv) di tutti i comuni della provincia di Modena con i dati in 4 colonne:
+    
+    1. data
+    2. nuovi positivi
+    3. somma mobile 7gg.
+    4. somma mobile 7gg./100mila abitanti
+
+
+#### Intervallo date
+
+da: 01/09/2020 a: 04/03/2021
+
+#### Giorni mancanti
+    
+1. 06/02/2021
+
+#### Ultimo aggiornamento
+
+👉 `04/03/2021 18:20`
+
+## Fonte e aggiornamento
+
+La cartella [giornaliero](./giornaliero) contiene i dati di partenza. Si tratta di un file di testo per ogni giorno e corrisponde al testo pubblicato ogni giorno dal quotidiano [SulPanaro](https://www.sulpanaro.net/) preso dai bollettini AUSL. In alcuni casi questo è stato fatto con degli screenshot e nella sotto cartella [foto_trascritte](./giornaliero/foto_trascritte) si trova la corrispondente immagine.
+
+Dopo aver creato un nuovo file in questo cartella l'aggiornamento di tutti i report avviene usando lo script `salva_report.py`
 
 ### Grafici
 
