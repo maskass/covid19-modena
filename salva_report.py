@@ -2,16 +2,28 @@ import glob
 import pandas as pd
 from miscellanea import importa_abitanti, importa_dati_giornalieri
 
-
+# Fonte dei dati comune per comune
 comuni = glob.glob('giornaliero/*.txt')
 dfcomuni = importa_dati_giornalieri(comuni)
 
+# Dati abitanti
 abitanti = importa_abitanti('abitanti_provincia_di_Modena.txt')
 
-roll = dfcomuni.rolling(7, center=True).sum()
+# Incidenza 7gg. - finestra centrata su ultimo giorno 
+# con center=True è invece al centro
+roll = dfcomuni.rolling(7, center=False).sum()
 
+# 2 Report generali
+
+## 1 tutti i comuni, nuovi positivi
 dfcomuni.to_excel('report_vari/nuovi_positivi_comuni_MO.xlsx')
 roll.to_excel('report_vari/nuovi_positivi_rolling7gg_comuni_MO.xlsx')
+
+## 2 tutti i comuni, incidenza7gg
+dfcomuni.to_csv('report_vari/nuovi_positivi_comuni_MO.csv')
+roll.to_csv('report_vari/nuovi_positivi_rolling7gg_comuni_MO.csv')
+
+# Report di tutti i comuni
 
 lista_output = [ comune for comune in dfcomuni.columns if (comune!='Fuori provincia')&(comune!='TOTALE') ]
 
