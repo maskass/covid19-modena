@@ -24,7 +24,7 @@ In [report_vari/comuni](./report_vari/comuni) si trovano i report (Excel e csv) 
 
 #### Intervallo date
 
-da: 01/09/2020 a: 04/03/2021
+da: 01/09/2020 a: 06/03/2021
 
 #### Giorni mancanti
     
