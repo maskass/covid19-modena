@@ -28,7 +28,7 @@ da: 01/09/2020 a: 06/03/2021
 
 #### Giorni mancanti
     
-1. 06/02/2021
+1. 06/01/2021
 
 #### Ultimo aggiornamento
 
