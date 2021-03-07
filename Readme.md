@@ -32,15 +32,19 @@ da: 01/09/2020 a: 04/03/2021
 
 #### Ultimo aggiornamento
 
-👉 `04/03/2021 18:20`
+👉 `06/03/2021 17:45`
 
-## Fonte e aggiornamento
+## Fonti e aggiornamento dati
 
-La cartella [giornaliero](./giornaliero) contiene i dati di partenza. Si tratta di un file di testo per ogni giorno e corrisponde al testo pubblicato ogni giorno dal quotidiano [SulPanaro](https://www.sulpanaro.net/) preso dai bollettini AUSL. In alcuni casi questo è stato fatto con degli screenshot e nella sotto cartella [foto_trascritte](./giornaliero/foto_trascritte) si trova la corrispondente immagine.
+I dati nazionali e regionali sono importati dalla repository Github della Protezione Civile: [Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile](https://github.com/pcm-dpc)
 
-Dopo aver creato un nuovo file in questo cartella l'aggiornamento di tutti i report avviene usando lo script `salva_report.py`
+I dati comunali della provincia di Modena sono presi dalle pagine del quotidiano [SulPanaro](https://www.sulpanaro.net/) che riporta ogni giorno i dati ricevuti dai bollettini AUSL (attualmente non pubblici). 
 
-### Grafici
+La cartella [giornaliero](./giornaliero) contiene questi dati in forma di un file di testo per ogni giorno. Nei casi in cui il quotidiano ha pubblicato i dati per mezzo di uno screenshot i dati sono stati trascritti a mano e le corrispondenti immagini contenute nella cartella [foto_trascritte](./giornaliero/foto_trascritte).
+
+Dopo aver creato un nuovo file in questa cartella l'aggiornamento di tutti i report avviene usando lo script `salva_report.py`
+
+### Grafici - work in progress
 
 L'idea di questa raccolta dati nasce da una discussione su un gruppo FB di Nonantola a proposito di un grafico che un consigliere comunale ha mostrato per mettere in evidenza l'aumento dei contagi a Nonantola rispetto al trend provinciale/regionale/nazionale. 
 
