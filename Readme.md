@@ -11,8 +11,8 @@ Per qualsiasi richiesta o suggerimento: ![](./email.png)
 
 In [report_vari](./report_vari) si trovano:
 
-* **nuovi_positivi_comuni_MO** ([xlsx](./report_vari/nuovi_positivi_comuni_MO.xlsx), [csv]((./report_vari/nuovi_positivi_comuni_MO.csv))): nuovi positivi per ogni giorno per tutti i comuni della provincia
-* **nuovi_positivi_rolling7gg_comuni_MO** ([xlsx](./report_vari/nuovi_positivi_rolling7gg_comuni_MO.xlsx), [csv](https://raw.githubusercontent.com/maskass/covid19-modena/main/report_vari/nuovi_positivi_comuni_MO.csv)): incidenza 7gg. dei dati di cui sopra
+* **nuovi_positivi_comuni_MO** ([xlsx](https://raw.githubusercontent.com/maskass/covid19-modena/main/report_vari/nuovi_positivi_comuni_MO.xlsx), [csv](https://raw.githubusercontent.com/maskass/covid19-modena/main/report_vari/nuovi_positivi_comuni_MO.csv)): nuovi positivi per ogni giorno per tutti i comuni della provincia
+* **nuovi_positivi_rolling7gg_comuni_MO** ([xlsx](https://raw.githubusercontent.com/maskass/covid19-modena/main/report_vari/nuovi_positivi_rolling7gg_comuni_MO.xlsx), [csv](https://raw.githubusercontent.com/maskass/covid19-modena/main/report_vari/nuovi_positivi_comuni_MO.csv)): incidenza 7gg. dei dati di cui sopra
 
 In [report_vari/comuni](./report_vari/comuni) si trovano i report (Excel e csv) di tutti i comuni della provincia di Modena con i dati in 4 colonne:
     
