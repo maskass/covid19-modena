@@ -1,0 +1,24 @@
+Campogalliano 2
+Carpi 2
+Castelfranco E. 2
+Castelnuovo R. 2
+Castelvetro 3
+Finale Emilia 1
+Fiorano M. 1
+Formigine 6
+Frassinoro
+Lama Mocogno 2
+Maranello 8
+Mirandola 1
+Modena 35
+Montefiorino 1
+Montese 1
+San Felice S/P 1
+Sassuolo 17
+Savignano S/P
+Serramazzoni 1
+Soliera 2
+Spilamberto 2
+Vignola 4
+Fuori provincia 10
+TOTALE 104
