@@ -1,4 +1,4 @@
-# Dati Covid19 provincia di Modena 
+# Dati Covid19 provincia di Modena
 
 La repository contiene i dati dei **nuovi positivi** della provincia di Modena divisi per comune. I dati sono ricavati dalle pubblicazioni giornaliere del sito di  [sulpanaro.net](sulpanaro.net) ([qui](https://www.sulpanaro.net/2021/02/aggiornamento-coronavirus-28-2-nel-modenese-402-nuovi-casi/) ad esempio il report del 28/02), che a sua volta riporta il bollettino quotidiano emesso dall'AUSL di Modena non distribuito pubblicamente.
 
@@ -8,31 +8,29 @@ Per qualsiasi richiesta o suggerimento: ![](./email.png)
 
 ## Report disponibili
 
-
 In [report_vari](./report_vari) si trovano:
 
 * **nuovi_positivi_comuni_MO** ([xlsx](https://raw.githubusercontent.com/maskass/covid19-modena/main/report_vari/nuovi_positivi_comuni_MO.xlsx), [csv](https://raw.githubusercontent.com/maskass/covid19-modena/main/report_vari/nuovi_positivi_comuni_MO.csv)): nuovi positivi per ogni giorno per tutti i comuni della provincia
 * **nuovi_positivi_rolling7gg_comuni_MO** ([xlsx](https://raw.githubusercontent.com/maskass/covid19-modena/main/report_vari/nuovi_positivi_rolling7gg_comuni_MO.xlsx), [csv](https://raw.githubusercontent.com/maskass/covid19-modena/main/report_vari/nuovi_positivi_comuni_MO.csv)): incidenza 7gg. dei dati di cui sopra
 
 In [report_vari/comuni](./report_vari/comuni) si trovano i report (Excel e csv) di tutti i comuni della provincia di Modena con i dati in 4 colonne:
-    
+
     1. data
     2. nuovi positivi
     3. somma mobile 7gg.
     4. somma mobile 7gg./100mila abitanti
 
-
 #### Intervallo date
 
-da: 01/09/2020 a: 13/03/2021
+da: 01/09/2020 a: 14/03/2021
 
 #### Giorni mancanti
-    
+
 1. 06/01/2021
 
 #### Ultimo aggiornamento
 
-👉 `13/03/2021 18:08`
+👉 `14/03/2021 18:09`
 
 ## Fonti e aggiornamento dati
 
