@@ -2,8 +2,6 @@
 
 **Nota 18/03/2021**: dal 12 marzo 2021 sul sito della Provincia di Modena viene aggiornata la pagina [Incidenza Covid-19 – Nuovi casi settimanali per 100.000 abitanti in provincia di Modena](https://www.provincia.modena.it/temi-e-funzioni/statistica/incidenza-covid-19-nuovi-casi-settimanali-per-100-000-abitanti-in-provincia-di-modena/). Riporta i grafici divisi per comune e per distretti sanitari dei dati dell'ultimo mese.  Ma i dati non sono ancora pubblici.
 
-
-
 Questa repository contiene i dati dei **nuovi positivi** della provincia di Modena divisi per comune. I dati sono ricavati dalle pubblicazioni giornaliere del sito di  [sulpanaro.net](sulpanaro.net) ([qui](https://www.sulpanaro.net/2021/02/aggiornamento-coronavirus-28-2-nel-modenese-402-nuovi-casi/) ad esempio il report del 28/02), che a sua volta riporta il bollettino quotidiano emesso dall'AUSL di Modena non distribuito pubblicamente.
 
 Nell'attesa che l'AUSL pubblichi uno storico strutturato e attendibile, ho deciso di raccolgiere i dati e metterli a disposizione.
@@ -26,7 +24,7 @@ In [report_vari/comuni](./report_vari/comuni) si trovano i report (Excel e csv) 
 
 #### Intervallo date
 
-da: 01/09/2020 a: 17/03/2021
+da: 01/09/2020 a: 18/03/2021
 
 #### Giorni mancanti
 
@@ -34,7 +32,7 @@ da: 01/09/2020 a: 17/03/2021
 
 #### Ultimo aggiornamento
 
-👉 `17/03/2021 17:35`
+👉 `18/03/2021 17:23`
 
 ## Fonti e aggiornamento dati
 
