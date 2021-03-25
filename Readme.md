@@ -50,7 +50,7 @@ L'idea di questa raccolta dati nasce da una discussione su un gruppo FB di Nonan
 
 Nel far notare i limiti di quella visualizzazione, ho pensato di poter continuare quel lavoro raccogliando tutti i dati disponibili.
 
-Questo è un grafico di esempio che riguarda appunto Nonantola. Il [Jupyter notebook](CovidNonantola_contesto.ipynb) usato per produrlo contiene anche le info sulla lettura dei dati e il modo in cui sono stati trattati.
+Questo è un grafico di esempio che riguarda appunto Nonantola. Il [Jupyter notebook](plot_comuni.ipynb) usato per produrlo contiene anche le info sulla lettura dei dati e il modo in cui sono stati trattati.
 
 ![](./Nonantola.png)
 
