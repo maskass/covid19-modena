@@ -24,17 +24,15 @@ In [report_vari/comuni](./report_vari/comuni) si trovano i report (Excel e csv) 
 
 #### Intervallo date
 
-da: 01/09/2020 a: 25/03/2021
+da: 01/09/2020 a: 26/03/2021
 
 #### Giorni mancanti
 
 1. 06/01/2021
 
-#### Ultimo aggiornamento
+#### ## Fonti e aggiornamento dati
 
-👉 `25/03/2021 21:41`
 
-## Fonti e aggiornamento dati
 
 I dati nazionali e regionali sono importati dalla repository Github della Protezione Civile: [Presidenza del Consiglio dei Ministri - Dipartimento della Protezione Civile](https://github.com/pcm-dpc)
 
