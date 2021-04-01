@@ -1,0 +1,49 @@
+Bastiglia
+Bomporto 1
+Campogalliano
+Camposanto
+Carpi 6
+Castelfranco E. 1
+Castelnuovo R. 1
+Castelvetro 5
+Cavezzo
+Concordia 1
+Fanano
+Finale Emilia 4
+Fiorano M. 9
+Fiumalbo
+Formigine 10
+Frassinoro
+Guiglia
+Lama Mocogno
+Maranello 4
+Marano
+Medolla
+Mirandola 2
+Modena 27
+Montecreto
+Montefiorino
+Montese
+Nonantola
+Novi
+Palagano
+Pavullo 2
+Pievepelago
+Prignano 4
+Polinago
+Ravarino
+Riolunato
+San Cesario S/P 2
+San Felice S/P
+San Possidonio
+San Prospero 1
+Sassuolo 6
+Savignano S/P 6
+Serramazzoni
+Sestola
+Soliera 6
+Spilamberto 1
+Vignola 3
+Zocca
+Fuori provincia 6
+TOTALE 108
