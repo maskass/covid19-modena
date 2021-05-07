@@ -1,0 +1,17 @@
+Carpi 1
+Castelnuovo R. 1
+Castelvetro 2
+Cavezzo 1
+Fiorano M. 3
+Formigine 2
+Mirandola 1
+Modena 11
+Novi 1
+Pavullo 1
+San Cesario S/P 1
+Sassuolo 6
+Serramazzoni 1
+Soliera 2
+Vignola 1
+Fuori provincia 4
+TOTALE 39

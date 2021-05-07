@@ -1,0 +1,23 @@
+Campogalliano 1
+Carpi 4
+Castelfranco E. 4
+Castelnuovo R. 1
+Castelvetro 1
+Finale Emilia 1
+Fiorano M. 1
+Maranello 1
+Mirandola 2
+Modena 14
+Montefiorino 1
+Nonantola 2
+Pavullo 1
+Pievepelago 2
+San Cesario S/P 1
+San Felice S/P 1
+San Prospero 1
+Sassuolo 5
+Savignano S/P 2
+Serramazzoni 1
+Sestola 1
+Fuori provincia 3
+TOTALE 51
