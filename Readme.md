@@ -6,7 +6,7 @@ Questa repository contiene i dati dei **nuovi positivi** della provincia di Mode
 
 Nell'attesa che l'AUSL pubblichi uno storico strutturato e attendibile, ho deciso di raccolgiere i dati e metterli a disposizione.
 
-Per qualsiasi richiesta o suggerimento: ![](./email.png)
+Per qualsiasi richiesta o suggerimento: ![](./email.gif)
 
 ## Report disponibili
 
