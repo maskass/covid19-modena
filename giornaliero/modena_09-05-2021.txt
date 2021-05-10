@@ -1,0 +1,26 @@
+Bastiglia
+Bomporto 2
+Carpi 11
+Castelfranco E. 6
+Castelvetro 4
+Cavezzo 1
+Fanano 1
+Fiorano M. 2
+Formigine 2
+Maranello 2
+Marano 2
+Mirandola 5
+Modena 29
+Montese 1
+Nonantola 1
+Novi 1
+Pavullo 11
+Ravarino 1
+San Felice S/P 2
+Sassuolo 3
+Soliera 1
+Spilamberto 1
+Vignola 6
+Zocca 1
+Fuori provincia 2
+TOTALE 98
