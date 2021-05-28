@@ -1,0 +1,18 @@
+Carpi 6
+Castelfranco E. 4
+Formigine 3
+Maranello 1
+Mirandola 1
+Modena 28
+Nonantola 2
+Pavullo 1
+Prignano 1
+San Cesario S/P 1
+San Felice S/P 2
+Sassuolo 3
+Savignano S/P 2
+Serramazzoni 2
+Soliera 4
+Zocca 1
+Fuori provincia 4
+TOTALE 66

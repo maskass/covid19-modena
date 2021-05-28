@@ -1,0 +1,20 @@
+Carpi 4
+Castelfranco E. 1
+Castelvetro 1
+Concordia 4
+Fiorano M. 1
+Formigine 2
+Maranello 1
+Medolla 1
+Mirandola 2
+Modena 19
+Novi 7
+Palagano 1
+Pavullo 1
+Pievepelago 2
+San Prospero 3
+Sassuolo 1
+Savignano S/P 1
+Spilamberto 1
+Fuori provincia 2
+TOTALE 55

@@ -1,0 +1,18 @@
+Bomporto 1
+Carpi 7
+Castelfranco E. 6
+Castelnuovo R. 1
+Castelvetro 3
+Finale Emilia 3
+Formigine 1
+Mirandola 1
+Modena 30
+Nonantola 1
+Novi 1
+Prignano 1
+Sassuolo 3
+Savignano S/P 2
+Soliera 1
+Spilamberto 3
+Vignola 1
+TOTALE 66

@@ -1,0 +1,19 @@
+Campogalliano 1
+Carpi 18
+Fiorano M. 3
+Formigine 5
+Maranello 4
+Medolla 3
+Modena 45
+Montefiorino 2
+Novi 2
+Pavullo 4
+Prignano 1
+Ravarino 2
+San Cesario S/P 2
+San Possidonio 1
+Sassuolo 8
+Soliera 3
+Spilamberto 2
+Vignola 2
+TOTALE 108
