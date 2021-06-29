@@ -1,0 +1,10 @@
+Carpi 2
+Concordia 1
+Fiorano M. 1
+Formigine 3
+Modena 5
+Pavullo 1
+Sassuolo 1
+Vignola 1
+Fuori provincia 1
+TOTALE 16

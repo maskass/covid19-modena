@@ -1,0 +1,11 @@
+Bastiglia 1
+Carpi 1
+Castelnuovo R. 1
+Concordia 2
+Formigine 1
+Medolla 1
+Mirandola 10
+Polinago 1
+Sassuolo 2
+Vignola 1
+TOTALE 21

@@ -1,0 +1,14 @@
+Campogalliano 1
+Carpi 2
+Castelfranco E. 3
+Concordia 1
+Fiorano M. 5
+Maranello 1
+Marano 1
+Modena 1
+Novi 1
+Ravarino 2
+Spilamberto 1
+Vignola 3
+Fuori provincia 1
+TOTALE 23

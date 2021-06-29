@@ -1,0 +1,15 @@
+Camposanto 1
+Carpi 4
+Castelfranco E. 1
+Finale Emilia 1
+Formigine 4
+Mirandola 1
+Modena 9
+Nonantola 1
+Novi 1
+Sassuolo 3
+Savignano S/P 4
+Soliera 1
+Spilamberto 4
+Vignola 1
+TOTALE 36

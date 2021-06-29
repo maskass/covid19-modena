@@ -1,0 +1,7 @@
+Concordia 1
+Formigine 1
+Mirandola 2
+Modena 2
+Pavullo 2
+Fuori provincia 1
+TOTALE 9

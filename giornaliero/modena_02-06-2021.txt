@@ -1,0 +1,7 @@
+Fiorano M. 2
+Formigine 3
+Maranello 1
+Modena 4
+Sassuolo 1
+Fuori provincia 1
+TOTALE 12
