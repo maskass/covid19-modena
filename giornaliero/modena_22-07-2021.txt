@@ -1,0 +1,16 @@
+Campogalliano 1
+Carpi 5
+Castelfranco E. 5
+Castelnuovo R. 2
+Fiorano M. 1
+Formigine 6
+Maranello 3
+Modena 20
+Nonantola 4
+Novi 5
+San Cesario S/P 1
+San Prospero 1
+Sassuolo 3
+Soliera 1
+Fuori provincia 1
+TOTALE 59

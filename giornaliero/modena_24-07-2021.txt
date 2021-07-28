@@ -1,0 +1,18 @@
+Bastiglia 2
+Campogalliano 2
+Carpi 18
+Castelfranco E. 4
+Castelvetro 3
+Fiorano M. 1
+Formigine 6
+Maranello 2
+Modena 16
+Nonantola 1
+Novi 4
+Pavullo 1
+Ravarino 3
+San Prospero 2
+Sassuolo 2
+Soliera 1
+Fuori provincia 1
+TOTALE 69

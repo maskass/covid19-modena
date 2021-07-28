@@ -1,0 +1,17 @@
+Bastiglia 1
+Carpi 6
+Castelfranco E. 8
+Castelvetro 2
+Finale Emilia 3
+Fiorano M. 1
+Formigine 2
+Mirandola 1
+Modena 16
+Ravarino 2
+San Felice S/P 1
+Sassuolo 2
+Savignano S/P 2
+Serramazzoni 1
+Soliera 1
+Spilamberto 1
+TOTALE 50

@@ -1,0 +1,6 @@
+Formigine 1
+Modena 1
+Ravarino 1
+Sassuolo 3
+Vignola 2
+TOTALE 8
