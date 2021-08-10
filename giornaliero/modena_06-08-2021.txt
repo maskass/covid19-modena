@@ -1,0 +1,29 @@
+Bastiglia 1
+Carpi 13
+Castelnuovo R. 3
+Castelvetro 1
+Cavezzo 1
+Concordia 1
+Fanano 2
+Finale Emilia 1
+Fiorano M. 4
+Formigine 5
+Guiglia 2
+Maranello 3
+Marano 1
+Medolla 2
+Mirandola 2
+Modena 17
+Pavullo 2
+Prignano 1
+San Felice S/P 1
+San Possidonio 1
+Sassuolo 4
+Savignano S/P 2
+Sestola 1
+Soliera 3
+Spilamberto 1
+Vignola 11
+Zocca 2
+Fuori provincia 2
+TOTALE 90
