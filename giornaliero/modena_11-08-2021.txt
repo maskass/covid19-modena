@@ -1,0 +1,16 @@
+Carpi 5
+Castelnuovo R. 3
+Castelvetro 2
+Fanano 1
+Guiglia 1
+Maranello 2
+Mirandola 1
+Modena 7
+Novi 1
+Pavullo 2
+Prignano 1
+San Prospero 1
+Sassuolo 2
+Vignola 3
+Fuori provincia 3
+TOTALE 35

@@ -1,0 +1,26 @@
+Bomporto 1
+Campogalliano 1
+Camposanto 1
+Carpi 3
+Castelfranco E. 1
+Castelnuovo R. 1
+Castelvetro 3
+Concordia 1
+Fanano 2
+Fiorano M. 6
+Formigine 6
+Guiglia 2
+Medolla 2
+Mirandola 2
+Modena 19
+Novi 2
+Pavullo 5
+Pievepelago 1
+Sassuolo 8
+Savignano S/P 2
+Serramazzoni 1
+Sestola 2
+Vignola 11
+Zocca 1
+Fuori provincia 1
+TOTALE 85
