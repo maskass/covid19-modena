@@ -1,0 +1,22 @@
+Bomporto 1
+Carpi 9
+Castelnuovo R. 2
+Castelvetro 1
+Cavezzo 2
+Concordia 2
+Fanano 3
+Finale Emilia 10
+Fiorano M. 10
+Mirandola 4
+Modena 27
+Pavullo 3
+Pievepelago 1
+Polinago 1
+San Cesario S/P 1
+San Felice S/P 4
+San Possidonio 1
+San Prospero 3
+Sassuolo 2
+Vignola 5
+Fuori provincia 8
+TOTALE 100

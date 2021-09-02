@@ -1,0 +1,10 @@
+Bomporto 1
+Carpi 2
+Cavezzo 1
+Modena 14
+Nonantola 1
+Sassuolo 3
+Savignano S/P 1
+Vignola 1
+Fuori provincia 1
+TOTALE 25
