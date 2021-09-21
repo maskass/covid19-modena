@@ -1,0 +1,29 @@
+Bomporto 1
+Campogalliano 1
+Camposanto 1
+Carpi 2
+Castelfranco E. 1
+Castelvetro 1
+Cavezzo 2
+Concordia 1
+Finale Emilia 5
+Fiorano M. 2
+Fiumalbo 3
+Formigine 8
+Guiglia 2
+Lama Mocogno 2
+Maranello 2
+Marano 1
+Mirandola 4
+Modena 30
+Novi 2
+Pavullo 8
+Ravarino 1
+San Felice S/P 1
+San Prospero 2
+Sassuolo 2
+Soliera 1
+Spilamberto 6
+Vignola 1
+Fuori provincia 4
+TOTALE 97

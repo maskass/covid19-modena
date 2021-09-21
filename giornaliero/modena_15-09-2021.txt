@@ -1,0 +1,7 @@
+Bomporto 2
+Carpi 1
+Castelnuovo R. 1
+Modena 16
+Novi 1
+Fuori provincia 1
+TOTALE 22

@@ -1,0 +1,21 @@
+Bastiglia 1
+Campogalliano 1
+Carpi 2
+Castelnuovo R. 2
+Castelvetro 2
+Finale Emilia 1
+Fiorano M. 2
+Formigine 1
+Guiglia 5
+Mirandola 5
+Modena 24
+Novi 1
+Pavullo 4
+Pievepelago 1
+San Felice S/P 1
+San Prospero 1
+Sassuolo 4
+Spilamberto 3
+Vignola 7
+Zocca 1
+TOTALE 70

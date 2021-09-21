@@ -1,0 +1,23 @@
+Campogalliano 1
+Camposanto 1
+Carpi 10
+Castelfranco E. 7
+Castelnuovo R. 2
+Castelvetro 3
+Concordia 1
+Fiorano M. 2
+Formigine 9
+Maranello 7
+Modena 5
+Novi 2
+Pavullo 2
+Ravarino 1
+San Cesario S/P 1
+San Felice S/P 2
+Sassuolo 9
+Savignano S/P 4
+Serramazzoni 1
+Spilamberto 2
+Vignola 9
+Fuori provincia 4
+TOTALE 85
