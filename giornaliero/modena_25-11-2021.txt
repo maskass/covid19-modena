@@ -1,0 +1,31 @@
+Carpi 13
+Castelfranco E. 1
+Castelnuovo R. 4
+Castelvetro 4
+Cavezzo 1
+Concordia 1
+Fanano 3
+Finale Emilia 1
+Fiorano M. 6
+Formigine 12
+Maranello 6
+Marano 3
+Medolla 1
+Mirandola 1
+Modena 36
+Montecreto 1
+Montese 1
+Nonantola 2
+Palagano 1
+Pavullo 2
+San Cesario S/P 2
+San Felice S/P 1
+San Prospero 2
+Sassuolo 15
+Serramazzoni 4
+Sestola 1
+Soliera 5
+Spilamberto 10
+Vignola 10
+Fuori provincia 3
+TOTALE 153

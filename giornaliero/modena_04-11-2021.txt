@@ -1,0 +1,8 @@
+Carpi 3
+Formigine 10
+Maranello 2
+Modena 3
+San Cesario S/P 2
+Sassuolo 2
+Fuori provincia 2
+TOTALE 24

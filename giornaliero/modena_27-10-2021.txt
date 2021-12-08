@@ -1,0 +1,7 @@
+Concordia 1
+Modena 4
+Nonantola 3
+Pavullo 1
+Spilamberto 1
+Fuori provincia 1
+TOTALE 11

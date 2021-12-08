@@ -1,0 +1,6 @@
+Carpi 1
+Castelfranco E. 1
+Mirandola 3
+Modena 1
+Sassuolo 2
+TOTALE 8

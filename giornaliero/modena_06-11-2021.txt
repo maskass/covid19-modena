@@ -1,0 +1,22 @@
+Bomporto 1
+Campogalliano 2
+Carpi 25
+Castelfranco E. 2
+Castelnuovo R. 1
+Castelvetro 2
+Fanano 1
+Formigine 2
+Lama Mocogno 1
+Maranello 3
+Marano 1
+Medolla 1
+Modena 25
+Montese 1
+San Felice S/P 1
+San Prospero 2
+Sassuolo 1
+Savignano S/P 4
+Soliera 4
+Vignola 4
+Fuori provincia 1
+TOTALE 85

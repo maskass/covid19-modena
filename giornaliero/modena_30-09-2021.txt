@@ -1,0 +1,20 @@
+Bomporto 3
+Campogalliano 9
+Carpi 13
+Castelnuovo R. 1
+Fiorano M. 1
+Fiumalbo 1
+Formigine 4
+Guiglia 2
+Mirandola 4
+Modena 20
+Novi 1
+Pavullo 4
+Prignano 2
+San Possidonio 2
+Sassuolo 1
+Sestola 1
+Spilamberto 2
+Vignola 4
+Fuori provincia 1
+TOTALE 76

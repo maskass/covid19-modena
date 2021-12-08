@@ -1,0 +1,6 @@
+Carpi 1
+Concordia 2           
+Modena 2
+Sassuolo 1
+Fuori provincia 1
+TOTALE 7

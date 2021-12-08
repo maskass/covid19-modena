@@ -1,0 +1,18 @@
+Camposanto 1
+Carpi 2
+Castelfranco E. 11
+Castelnuovo R. 2
+Castelvetro 1
+Formigine 3
+Maranello 2
+Marano 1
+Modena 8
+Ravarino 1
+San Cesario S/P 6
+San Prospero 3
+Sassuolo 6
+Savignano S/P 2
+Spilamberto 4
+Vignola 1
+Fuori provincia 6
+TOTALE 60

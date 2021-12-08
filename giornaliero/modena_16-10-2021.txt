@@ -1,0 +1,6 @@
+Carpi 4
+Castelnuovo R. 3
+Guiglia 1
+Modena 12
+Fuori provincia 1
+TOTALE 21

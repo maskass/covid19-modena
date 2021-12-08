@@ -1,0 +1,10 @@
+Carpi 4
+Castelfranco E. 4
+Fanano 1
+Formigine 1
+Modena 4
+Pavullo 1
+Sassuolo 6
+Vignola 1
+Fuori provincia 1
+TOTALE 23

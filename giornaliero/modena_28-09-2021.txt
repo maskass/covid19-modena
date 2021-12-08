@@ -1,0 +1,19 @@
+Campogalliano 1
+Carpi 1
+Castelfranco E. 1
+Castelnuovo R. 2
+Finale Emilia 2
+Fiorano M. 1
+Lama Mocogno 1
+Maranello 1
+Medolla 1
+Mirandola 3
+Modena 4
+Polinago 1
+San Felice S/P 2
+San Possidonio 1
+Sassuolo 1
+Spilamberto 2
+Vignola 4
+Fuori provincia 3
+TOTALE 32

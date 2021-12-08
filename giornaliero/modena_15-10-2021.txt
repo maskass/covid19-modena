@@ -1,0 +1,10 @@
+Castelfranco E. 2
+Castelnuovo R. 2
+Formigine 2
+Guiglia 1
+Mirandola 4
+Modena 5
+Pavullo 4
+Sassuolo 1
+Spilamberto 2
+TOTALE 23

@@ -1,0 +1,11 @@
+Campogalliano 4
+Carpi 6
+Castelnuovo R. 3
+Fiorano M. 2
+Maranello 2
+Mirandola 1
+Modena 13
+Pavullo 1
+Sassuolo 1
+Soliera 1
+TOTALE 34

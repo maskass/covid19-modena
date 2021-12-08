@@ -1,0 +1,8 @@
+Carpi 1
+Formigine 7
+Frassinoro 1
+Modena 6
+Sassuolo 1
+Serramazzoni 1
+Vignola 1
+TOTALE 18
