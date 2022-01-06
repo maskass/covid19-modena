@@ -1,0 +1,23 @@
+Bastiglia 3
+Bomporto 2
+Carpi 7
+Castelfranco E. 2
+Fanano 1
+Finale Emilia 4
+Fiorano M. 3
+Formigine 10
+Guiglia 1
+Lama Mocogno 1
+Maranello 3
+Marano 1
+Modena 18
+Nonantola 1
+Pavullo 1
+Prignano 2
+San Cesario S/P 1
+Sassuolo 9
+Savignano S/P 1
+Spilamberto 1
+Vignola 4
+Fuori provincia 6
+TOTALE 82
